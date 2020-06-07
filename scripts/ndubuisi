@@ -1,0 +1,15 @@
+let details = {
+    fullName: "Ndubuisi Ukpabi",  
+    language: "html",
+    hngID: "HNG-03894",
+    email: "ukpabi.ndubuisi@yahoo.com"
+};
+  
+const message = `Hello World, this is ${details.fullName} with HNGi7 ID ${details.hngID} and email ${details.email} using ${details.language} for stage 2 task.`;
+console.log(message);
+Collapse
+
+
+  
+
+
